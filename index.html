@@ -1,0 +1,242 @@
+<!doctype html>
+<html lang="en" ng-app="RapeCases">
+
+    <head>
+
+        <meta charset="utf-8">
+        <title>Rape Cases Of 2013</title>
+        <meta charset="UTF-8">
+        <link rel="icon" type="image/png" href="images/favicon.ico">
+        <link rel="stylesheet" href="css/reveal.css">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/bootstrap-responsive.min.css">
+        <link rel="stylesheet" href="css/jquery.mCustomScrollbar.css">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:Light300,Normal400,Semi-Bold600,Bold 700,400italic,400,600' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="css/style.css" type='text/css'>
+        <script src="js/jquery-1.9.1.min.js" type="text/javascript"></script>
+        <script src="lib/angular/angular.min.js"></script>
+        <script src="class/Controller.js" ></script>
+        <script src="class/services.js" ></script>
+        <script src="lib/angular/angular-sanitize.min.js"></script>
+    </head>
+
+    <body>
+
+        <section>
+            <header>
+
+                <div class="row-fluid" ng-controller="cases">
+
+                    <div class="span3">
+                        <a href="#/" class="logo">
+                            <img src="images/labs-logo-main.png" alt="Gather Content" >
+                        </a>
+                    </div>
+
+                    <ul class="menu-list span9 pull-right">
+
+                        <li id="{{$index + 1}}" ng-repeat="month in months track by $index">
+                            <a href="#" class="menu-list" data-month="{{$index + 1}}" >
+                                {{month}}
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+
+            </header>
+        </section>
+
+
+        <div class="reveal" ng-controller="cases">
+
+            <div class="slides month row-fluid" >
+
+                <section id="slide1">
+                    <center>
+                        <img src="images/logo-large.png">
+
+                        <fieldset class="intro">
+                            <legend>presents</legend>
+                            <left>
+                                <h1>RAPE CASES</h1> 
+                                <h2><strong>Feature Stories</strong></h2>
+                            </left>
+                            <right>
+                                <h1>2013</h1>
+                            </right>
+                        </fieldset>
+
+                        <description>
+                            
+                            <p> Collated by: Ema Anis & Jahanzaib Haque | Creative by: Muhammad Maaz & Aamir Khan </p>
+                            
+                            <p> 
+                                Use Left or Right arrow keys to change the months  and Up or  Down arrow keys
+                                to change the stories of the same month.
+                            </p>
+
+                            <img src="images/main-arrows.png" />
+
+                            <!--<p> *Names have been changed to protect identities.</p>-->
+
+                            <div>
+                                <desc_btn>CHANGE MONTHS TO START EXPERIENCE</desc_btn>
+                            </div>
+                        </description>
+
+                    </center>
+                </section>
+
+                <section ng-controller="cases" ng-repeat="month in months track by $index" case-month="{{$index}}" id="{{month}}" data-month="{{month}}" data-section="{{month}}" class="month row-fluid" data-state="month" data-transition="zone">
+
+                    <section data-month="{{month}}" class="content row-fluid" ng-repeat="case in casess" data-transition="concave">
+
+                        <div class="story-pic span5">
+                            <img ng-if="case.type == 1" alt="{{case.title}}" class="img-responsive" src="images/cases/{{case.image}}" >
+
+                            <iframe ng-if="case.type == 2" frameborder="0" width="639" height="486" src="{{trustSrc(case.image)}}" allowfullscreen></iframe>
+                        </div>
+
+                        <div class="story-detail span5" >
+
+                            <h1>
+                                {{case.title}}
+                            </h1>
+
+                            <p>
+                                {{case.description}}
+                            </p>
+
+                            <readmore>
+                                <a href="{{case.link}}" target="_blank">
+                                    READ FULL STORY
+                                </a>
+                            </readmore>
+
+                        </div>
+
+                        <div class="span3">
+                            <span class="clear"></span>
+                        </div>
+
+                    </section>  
+
+                    <nav class="side-nave span3 right" >
+
+                        <h4>
+                            <strong>CASES OF THIS MONTH</strong>
+                        </h4>
+
+                        <slide class="mCustomScrollbar">
+                            <ul>
+                                <li  id="{{monthNo}}-{{$index + 1}}" ng-repeat="case in casess track by $index">
+                                    <a href="#" class="jumpTo" data-month="{{monthNo}}" data-case="{{$index}}">
+                                        <img  ng-if="case.type == 1" alt="{{case.title}}" src="images/cases/{{case.image}}" width="100" height="100" />
+                                        <img  ng-if="case.type == 2" alt="{{case.title}}" src="images/videothumb.jpg" width="100" height="100" />
+                                        <p>{{case.title}}</p>
+                                    </a>
+                                </li>
+                            </ul>
+                        </slide>
+
+                    </nav>
+
+                </section>
+
+            </div>
+        </div>
+
+
+        <div class="bottom">
+
+            <ul>
+                <li>
+                    <div class="fb-like" data-href="http://labs.tribune.com.pk/cult-of-kayani/" data-layout="button_count"
+                         data-action="like" data-show-faces="false" data-share="false">
+                    </div>
+                </li>
+                <li>
+
+                    <div>
+                        <a href="https://twitter.com/share" class="twitter-share-button" data-related="jasoncosta"
+                           data-lang="en" data-size="small" data-count="none">Tweet
+                        </a>
+                    </div>
+
+                </li>
+                <li>
+                    <div class="g-plusone" data-size="tall" data-annotation="inline" data-width="300"></div>
+                </li>
+                <li></li>
+            </ul>
+
+        </div>
+
+        <footer class="row-fluid">
+
+            <span class="span4">
+                Executed By: Sawant Shah
+            </span>
+            <span class="span5">
+                Copyright © 2013 The Express Tribune. Technical feedback? Email labs@tribune.com.pk
+            </span>
+            <span class="span3 right">
+                *Names have been changed to protect identities.
+            </span>
+        </footer>
+
+        <script src="lib/js/head.min.js"></script>
+        <script src="js/reveal.min.js" type="text/javascript"></script>
+        <script src="js/script.js" type="text/javascript"></script>
+        <script src="js/jquery.mCustomScrollbar.min.js" type="text/javascript"></script>
+
+
+        <div id="fb-root"></div>
+        <script>
+                                            (function(d, s, id) {
+                                                var js, fjs = d.getElementsByTagName(s)[0];
+                                                if (d.getElementById(id))
+                                                    return;
+                                                js = d.createElement(s);
+                                                js.id = id;
+                                                js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=288177161298212";
+                                                fjs.parentNode.insertBefore(js, fjs);
+                                            }(document, 'script', 'facebook-jssdk'));</script>
+
+        <script>
+            !function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (!d.getElementById(id)) {
+                    js = d.createElement(s);
+                    js.id = id;
+                    js.src = "https://platform.twitter.com/widgets.js";
+                    fjs.parentNode.insertBefore(js, fjs);
+                }
+            }(document, "script", "twitter-wjs");</script>
+
+        <script>
+            $(document).ready(function() {
+                $(".fancybox").fancybox({
+                    type: 'iframe',
+                    autoSize: false,
+                    beforeLoad: function() {
+                        this.width = parseInt(this.element.data('fancybox-width'));
+                        this.height = parseInt(this.element.data('fancybox-height'));
+                    }
+                });
+            });</script>
+        <script type="text/javascript">
+            (function() {
+                var po = document.createElement('script');
+                po.type = 'text/javascript';
+                po.async = true;
+                po.src = 'https://apis.google.com/js/platform.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(po, s);
+            })();
+        </script>
+
+
+    </body>
+</html>

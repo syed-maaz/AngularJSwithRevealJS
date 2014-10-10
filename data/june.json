@@ -1,0 +1,74 @@
+[
+  {
+    "id":1,
+    "title":"Court orders arrest of groom, cleric for underage marriage",
+    "description":"13-year-old girl in Hyderabad said she was forced to give her thumb impression on the nikahnama. She also accused her 'husband' of rape but had not registered a case. Under the Child Marriage Restraint Act 1929, such crimes are punishable with a month in jail and a penalty of up to Rs1,000.",
+    "image":"june.png",
+    "type":"1",
+    "link":"http://tribune.com.pk/story/557089/illegal-union-court-orders-arrest-of-groom-cleric-for-underage-marriage/"
+  },
+  {
+    "id":2,
+    "title":"LHC seeks report on alleged gang-rape",
+    "description":"Mother of three, resident of Lahore, said two men took her to an unknown location, promising employment, and raped her. Police registered a case but no arrests were made immediately.",
+    "image":"38.jpg",
+    "type":"1",
+    "link":"http://tribune.com.pk/story/558465/heinous-crime-lhc-seeks-report-on-alleged-gang-rape/"
+  },
+  {
+    "id":3,
+    "title":"Woman accuses man of abduction, rape",
+    "description":"A married woman, Shireen Bibi*, 19, lodged an FIR against Habibullah in which she alleged that the latter kidnapped her and subjected her to rape for several days in Dera Ismail Khan. A police official said initial investigation revealed Habibullah had a relationship with both Shireen Bibi and her elder sister. ",
+    "image":"43.png",
+    "type":"1",
+    "link":"http://tribune.com.pk/story/560284/heinous-act-woman-accuses-man-of-abduction-rape/"
+  },
+  {
+    "id":4,
+    "title":"Police 'fail to register' rape complaint",
+    "description":"Ahmad called a midwife to his house in Lahore saying his mother needed her assistance. Along with his two accomplices, he menaced at her at gunpoint and tried to rape her. The midwife said she raised a hue and cry which caught the attention of the neighbours who foiled the rape attempt.",
+    "image":"6.png",
+    "type":"1",
+    "link":"http://tribune.com.pk/story/560517/rape-attempt-police-fail-to-register-rape-complaint/"
+  },
+  {
+    "id":5,
+    "title":"SHC issues notice on rape survivor's appeal",
+    "description":"The rape survivor had appealed against acquittal of the then assistant manager for security of the Quaidֳ mausoleum, an accountant and a personal assistant to the resident engineer of the Quaid-e-Azam Management Board who were charged with subjecting her to a sexual assault on March 15, 2008. The lawyers claimed that the acquittal judgment was erroneous because the offence of Zina and the offence of rape are distinct offences.",
+    "image":"45.jpg",
+    "type":"1",
+    "link":"http://tribune.com.pk/story/565642/challenging-acquittals-shc-issues-notice-on-rape-survivors-appeal/"
+  },
+  {
+    "id":6,
+    "title":"14-year-old ‘set on fire by friends’",
+    "description":"A 14-year-old boy was burned in Faisalabad allegedly by his friends after he reported them for sexual assault. The suspects, all his son’s friends, had taken him to an abandoned house and tried to rape him. When he resisted, they set fire to his clothes.",
+    "image":"52.jpg",
+    "type":"1",
+    "link":"http://tribune.com.pk/story/566019/bad-company-14-year-old-set-on-fire-by-friends/"
+  },
+  {
+    "id":7,
+    "title":"4 sisters kidnapped, gang raped",
+    "description":"Four sisters were abducted and allegedly gang raped by seven men at gunpoint in Faisalabad. One of the girls told the media that her family worked at a brick kiln in the area. Saddar police SHO said police had registered a case against the men.",
+    "image":"49.jpg",
+    "type":"1",
+    "link":"http://tribune.com.pk/story/567087/heinous-crime-4-sisters-kidnapped-gang-raped/"
+  },
+  {
+    "id":8,
+    "title":"Three years later: Man arrested for rape, murder",
+    "description":"A man suspected of raping and murdering a 14-year-old girl in Sialkot was arrested, three years after the incident. Police claimed that the man had confessed to the crime. He told police he had buried the girl in the abandoned mansion house where he had raped her.",
+    "image":"50.jpg",
+    "type":"1",
+    "link":"http://tribune.com.pk/story/567340/three-years-later-man-arrested-for-rape-murder/"
+  },
+  {
+    "id":9,
+    "title":"LHC orders rape case against two cops",
+    "description":"A woman was bundled into a car by three men, which was stopped near a police post in Mandi Bahauddin. The policemen took her to the post saying they needed to fulfil certain legal requirements, but instead they raped her repeatedly for two days. The girl's brother bribed the police Rs25,000 for her release.",
+    "image":"18.jpg",
+    "type":"1",
+    "link":"http://tribune.com.pk/story/568923/public-protectors-lhc-orders-rape-case-against-two-cops/"
+  }
+]

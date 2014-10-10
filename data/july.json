@@ -1,0 +1,186 @@
+[
+  {
+    "id":1,
+    "title":"Two arrested for 'burying' newborn",
+    "description":"Mother was harassed and raped for several weeks in Multan. When she gave birth to a baby girl, rapists said they would kill it. The rapist's guards escorted the mother to a graveyard, where she dug a hole and put the baby in. She said she quickly covered it with loose earth and left.",
+    "image":"july.png",
+    "type":1,
+    "link":"http://tribune.com.pk/story/584183/crime-against-children-2-arrested-for-burying-newborn/"
+  },
+  {
+    "id":2,
+    "title":"Revenge: Woman ‘raped by son’s in-laws’",
+    "description":"A woman from Bahawalpur claimed to have been raped by her son’s in-laws because her son had married their daughter without their consent. She said they had also abducted her five-year-old granddaughter. The woman said that she went to her daughter-in-law’s house along with several policemen to recover her granddaughter, but could not find her.",
+    "image":"24.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/584221/revenge-woman-raped-by-sons-in-laws/"
+  },
+  {
+    "id":3,
+    "title":"Minor gang-raped: LHC takes notice of the incident",
+    "description":"Victim from Syedwala Town was returning from a nearby shrine when three men overpowered her, took the girl to a deserted place and allegedly molested her for two hours. The victim's father has alleged that the police was aiding the accused.",
+    "image":"17.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/583825/minor-gang-raped-lhc-takes-notice-of-the-incident/"
+  },
+  {
+    "id":4,
+    "title":"Rape and blackmail: SHO’s views sought on woman’s plea against ex-husband",
+    "description":"Woman, a resident of Lahore, said that while she was unconscious, her ex-husband raped her and his brother took nude pictures of her. They had then used those pictures to blackmail her. She had paid them Rs300,000 and five tolas of gold.",
+    "image":"27.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/583679/rape-and-blackmail-shos-views-sought-on-womans-plea-against-ex-husband/"
+  },
+  {
+    "id":5,
+    "title":"PTI leader to face judicial inquiry in sexual harassment case",
+    "description":"PTI leader Paracha asked her to come to his office inside the factory in Pabbi where he offered her a good position and a handsome salary for sexual services, Madeeha* said. Madeeha, however, said that she refused to do so, after which Paracha closed the office door and tried to sexually harass and rape her.",
+    "image":"19.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/583028/pti-leader-to-face-judicial-inquiry-in-sexual-harassment-case/"
+  },
+  {
+    "id":6,
+    "title":"Senior policemen removed following rape in custody",
+    "description":"A father and son were forced to sexually abuse each other in front of other prisoners at a police station in Okara. Chief Minister Shahbaz Sharif removed three senior police officials from their posts following this incident and condemned the 'extreme savagery' of the police.",
+    "image":"18.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/582056/cabinet-meeting-senior-policemen-removed-following-rape-in-custody/"
+  },
+  {
+    "id":7,
+    "title":"Woman seeks FIR against husband",
+    "description":"Woman in Lahore wanted FIR against her husband for assault, threats, abetting rape and forcing her into prostitution. She said her husband begged her to work as a prostitute because he didn't have a job and they needed money, but she had refused.",
+    "image":"9.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/581585/nightmare-marriage-woman-seeks-fir-against-husband/"
+  },
+  {
+    "id":8,
+    "title":"CPO told to register rape case against inspector",
+    "description":"A woman police constable was allegedly raped by one of her colleagues and his accomplice in Faisalabad. She said that she had filed a complaint at the Madina Town police station but they had refused to register an FIR against the inspector.",
+    "image":"58.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/580903/cpo-told-to-register-rape-case-against-inspector/"
+  },
+  {
+    "id":9,
+    "title":"13-year-old burned after rape attempt",
+    "description":"Girl from Rahim Yar Khan said her friend's brother tried to rape her. When she started shouting for help, he threw kerosene oil at her and set her clothes on fire. Some neighbours who heard her scream rushed to the house. One of them informed her parents and she was taken to the district headquarters hospital",
+    "image":"52.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/580532/brutal-crime-13-year-old-burned-after-rape-attempt/"
+  },
+  {
+    "id":10,
+    "title":"Woman dies during rape",
+    "description":"Residents said a 30-year-old peasant was dragged into a field in Muzaffargarh on her way for work. When she resisted, the suspect injured her by slitting her throat. He then raped her. The deceased was a mother of three.",
+    "image":"http://player.vimeo.com/video/25143724",
+    "type":2,
+    "link":"http://tribune.com.pk/story/580534/brutality-woman-dies-during-rape/"
+  },
+  {
+    "id":11,
+    "title":"Rape case: Relatives of accused ‘pressurising’ police",
+    "description":"In her statement, victim said that a woman, who allegedly runs a brothel in Bani Gala, brought her from Bakra Mandi, Rawalpindi, and 'offered' her to the rapists. The police said that the girl escaped from the farmhouse, however, the suspects followed her and one of them opened fire at her.",
+    "image":"12.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/579284/rape-case-relatives-of-accused-pressurising-police/"
+  },
+  {
+    "id":12,
+    "title":"LHC takes notice of sexual assault case",
+    "description":"Five masked men broke into a labourer's house in Bahawalnagar at night, tied him up and raped his wife and daughter for several hours, leaving the teenager unconscious. Though the attackers had tried to cover their faces, the family recognised one of them. Police later arrested the man identified by the family.",
+    "image":"50.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/577441/bahawalnagar-lhc-takes-notice-of-sexual-assault-case/"
+  },
+  {
+    "id":13,
+    "title":"Court orders: 'Raped girl' to be re-examined",
+    "description":"The girl had submitted that she was kidnapped and detained by Dr Nasir Baig on June 28. She said Baig repeatedly raped her for three days before abandoning her near the hospital gate in Faisalabad. The girl said the hospital staff had misbehaved with her when she went there for a medical examination.",
+    "image":"7.png",
+    "type":1,
+    "link":"http://tribune.com.pk/story/576179/court-orders-raped-girl-to-be-re-examined/"
+  },
+  {
+    "id":14,
+    "title":"Four arrested for raping a 13-year-old",
+    "description":"Victim was taken to an abandoned house in Hafizabad and raped. When her condition became critical, the men fled. Police said four suspects identified by the girl had been arrested.",
+    "image":"13.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/574867/crime-against-children-four-arrested-for-raping-a-13-year-old/"
+  },
+  {
+    "id":15,
+    "title":"Man booked for 'assaulting' girl",
+    "description":"The victim's mother lodged a report with the local police that her daughter, Saba* had been sleeping in her room alone when Ashraf*, a local resident, entered the house in Mandra by climbing the wall and raped her. The police registered a case against the suspect.",
+    "image":"16.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/574320/crime-man-booked-for-assaulting-girl/"
+  },
+  {
+    "id":16,
+    "title":"Banker’s murder: Female suspect claims deceased tried to rape her",
+    "description":"One of the suspects in the murder of banker Faisal Nabi revealed that the deceased tried to rape her before he was shot by M*, the woman who initially complained to the police. The 33-year-old banker was killed on June 19 at an apartment on Zamzama after the friends consumed ecstasy pills.",
+    "image":"40.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/574174/bankers-murder-female-suspect-claims-deceased-tried-to-rape-her/"
+  },
+  {
+    "id":17,
+    "title":"Kidnapped woman's putrefied body found",
+    "description":"Relatives identified the victim from the clothes she was wearing the day she was kidnapped. Police said it seemed that the woman had been raped in Bahawalpur. Police said the body was in too bad a condition to be identified.",
+    "image":"42.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/574280/3-arrested-after-missing-person-found-dead/"
+  },
+  {
+    "id":18,
+    "title":"'Exorcist' held for raping child",
+    "description":"The family alleged that the 15-year-old girl was raped repeatedly over a period of two weeks in Faisalabad. Pir Kashif Ali Shah alias Kashi Baba told the girl's relative that she was possessed by evil spirits and must be treated in one-on-one sessions with the 'healer'",
+    "image":"34.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/574282/exorcist-held-for-raping-child/"
+  },
+  {
+    "id":19,
+    "title":"Conflicting versions: Woman says she 'made up' accusations of rape",
+    "description":"The woman had changed her statement, either due to pressure from the police or the accused, during the night. According to reports, the beggar woman, P*, was returning home when a group of men intercepted her and dragged her to a nearby farm at gunpoint where they allegedly raped her. ",
+    "image":"8.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/573830/conflicting-versions-woman-says-she-made-up-accusations-of-rape/"
+  },
+  {
+    "id":20,
+    "title":"Inquiry committee: Doctor accused of patient's rape declared innocent",
+    "description":"A committee found that the rape allegations against Dr Nasir Baig were not true. The girl's father had accused Baig of kidnapping his daughter on June 28 and detaining her. He further said Baig repeatedly raped his daughter for three days before abandoning her near the hospital gate on July 1. ",
+    "image":"39.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/573476/inquiry-committee-doctor-accused-of-patients-rape-declared-innocent/"
+  },
+  {
+    "id":21,
+    "title":"Rape case: Non-bailable arrest warrants issued",
+    "description":"Victim said suspect and his brother took her to an unfamiliar place in Lahore and repeatedly raped her.  Later, she said, they abandoned her in front of her house. The accused have not appeared before the court for several months.",
+    "image":"35.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/573148/rape-case-non-bailable-arrest-warrants-issued/"
+  },
+  {
+    "id":22,
+    "title":"Girl’s body removed from grave with intent to rape: Police",
+    "description":"A body was found lying outside a grave in Qila Didar Singh, Gujranwala, and was reportedly assaulted sexually. Fifteen-year-old Zainab, daughter of Muhammad Munir, died of electrocution. Police arrested a suspect and have started inquiries.",
+    "image":"53.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/571870/girls-body-removed-from-grave-with-intention-of-rape-police/"
+  },
+  {
+    "id":23,
+    "title":"Woman mutilated for resisting father-in-laws's advances",
+    "description":"A man in Faisalabad chopped off his pregnant daughter-in-lawֳ nose and hair and caused several wounds to her arms and legs for resisting his sexual advances. A neighbour said several people were attracted by the woman's shouting and tried to stop the man who managed to flee from the scene.",
+    "image":"31.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/571660/atrocity-woman-mutilated-for-resisting-father-in-laws-advances/"
+  }
+]

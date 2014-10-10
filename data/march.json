@@ -1,0 +1,34 @@
+[
+  {
+    "id":1,
+    "title":"Rape-murder case: SC directs lower court to complete trial within 30 days",
+    "description":"The countrys's top court gave a lower court judge 30 days to complete the trial of the rape and murder of the 11-year-old girl by a couple in Bahar Kahu. The main accused, Qamar* had confessed to his involvement in four other cases of rape and attempted rape, including the daughter of a senior police officer.",
+    "image":"march.png",
+    "type":"1",
+    "link":"http://tribune.com.pk/story/515820/rape-murder-case-sc-directs-lower-court-to-complete-trial-within-30-days/"
+  },
+  {
+    "id":2,
+    "title":"Rape: Shot dead for refusing 'settlement'" ,
+    "description":"Suspect Rafaqat Ali and his wife Sughra residents of Khanpur pressurised the victim S* to drop the rape charges against them and shot her dead when she refused. When the victim refused and shot her dead when she refused. When the victim refused and shot her dead when she refused. When the victim refused, Ali, his wife,  and two other accomplices Nasir Ali and Arif, broke into her house and killed her.",
+    "image":"21.jpg",
+    "type":"1",
+    "link":"http://tribune.com.pk/story/516169/rape-shot-dead-for-refusing-settlement/"
+  },
+  {
+    "id":3,
+    "title":"Reports of rape cases sought from sessions judges",
+    "description":"The Lahore High Court CJ took notice of four rape cases in Pakpattan, Muridke and Gujranwala districts.",
+    "image":"3.png",
+    "type":"1",
+    "link":"http://tribune.com.pk/story/517250/crime-reports-sought-from-sessions-judges/"
+  },
+  {
+    "id":4,
+    "title":"‘Honour’ crime: Man kills his niece, her paramour",
+    "description":"The body of a 10-year-old girl, who was raped and strangled allegedly by her paternal uncle, was found in a field in Faisalabad. Police arrested the uncle who confessed to the crime. The girl, a resident of Abadi Chak 75-RB, went missing and her parents searched her everywhere in the area before they informed the police.",
+    "image":"32.jpg",
+    "type":"1",
+    "link":"http://tribune.com.pk/story/517387/honour-crime-man-kills-his-niece-her-paramour/"
+  }
+]
