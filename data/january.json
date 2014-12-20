@@ -1,0 +1,82 @@
+[
+  {
+    "id":1,
+    "title":"Rape, forced abortion: Court calls for police comments",
+    "description":"Case filed against a police officer in Lahore for allegedly releasing a suspect nominated in a rape case. Woman said she was raped by her husband's brother, then her husband forced her into abortion by threatening to kill her. She alleged that her husband did not let her obtain a medical report to confirm the rape.",
+    "image":"jan.png",
+    "type":1,
+    "link":"http://tribune.com.pk/story/487680/rape-forced-abortion-court-calls-for-police-comments/"
+  },
+  {
+    "id":2,
+    "title":"9-year-old in critical condition after gang-rape",
+    "description":"Minor girl was kidnapped from front of her house in Bahawalpur by three women and a man. They took her to a dera where three men raped her. She was also beaten up before she was abandoned in front of her home. When her mother was going to the police station, one of the kidnappers threatened to kill her.",
+    "image":"36.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/488659/crime-against-children-9-year-old-in-critical-condition-after-gang-rape/"
+  },
+  {
+    "id":3,
+    "title":"Karak murder case: ATC frames charges against prime suspect",
+    "description":"Charges framed against main suspect in the murder of Alamzeb Khattak, the brother of Karak rape victim Uzma Ayub. Khattak was shot dead on December 9, 2011, while escorting his sister to a court hearing. The case was later registered by Khattakֳ brother Zafran at the Takhte Nusrati police station.",
+    "image":"8.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/491302/karak-murder-case-atc-frames-charges-against-prime-suspect/"
+  },
+  {
+    "id":4,
+    "title":"Four-year-old critical following assault",
+    "description":"Four-year-old girl went missing in Bahawalpur. She was found four hours later, in great pain and crying, in the lane next to her house. Hospital authorities confirmed rape. A three-member committee was formed to investigate and arrest the culprit.",
+    "image":"41.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/492839/hospitalised-four-year-old-critical-following-assault/"
+  },
+  {
+    "id":5,
+    "title":"'Attacked by in-law': SHO told to record attempted rape complaint",
+    "description":"Man in Lahore filed complaint saying his daughter was depressed because her father-in-law had tried to rape her. He said that he had approached Kahna police station to lodge a complaint, but the SHO refused to register a case.",
+    "image":"1.png",
+    "type":1,
+    "link":"http://tribune.com.pk/story/495038/attacked-by-in-law-sho-told-to-record-attempted-rape-complaint/"
+  },
+  {
+    "id":6,
+    "title":"Raped before murder: Body of missing girl found",
+    "description":"Man beaten up by some people for trying to rape a 17-year-old girl who was visiting him to get an amulet in Gujranwala. The ‘pir’ took the girl to a separate room. A few minutes later people heard the girl shout for help and broke into the room.",
+    "image":"51.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/495012/raped-before-murder-body-of-missing-girl-found/"
+  },
+  {
+    "id":7,
+    "title":"Three suspects held for rape of minor girl",
+    "description":"NA* was sexually assaulted, throttled with a wire and then set on fire. Her body was found inside a gunny bag in Mir Colony. Doctors had sent her remains to a laboratory for further investigation. An FIR was registered against unknown men.",
+    "image":"23.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/495438/three-suspects-held-for-rape-of-minor-girl/"
+  },
+  {
+    "id":8,
+    "title":"Rape attempt: 'Pir' beaten up, handed over to police",
+    "description":"Man beaten up by some people for trying to rape a 17-year-old girl who was visiting him to get an amulet in Gujranwala. The ‘pir’ took the girl to a separate room. A few minutes later people heard the girl shout for help and broke into the room.",
+    "image":"46.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/496684/rape-attempt-pir-beaten-up-handed-over-to-police/"
+  },
+  {
+    "id":9,
+    "title":"Two months on: Police finally arrest alleged Vehari rapist",
+    "description":"More than two months after a criminal assault on a teenage boy, the police arrested the main suspect who was identified by the victim before he died. The victim’s family had earlier said that they had “lost all hope in the police” and had threatened self-immolation if justice was not served.",
+    "image":"http://player.vimeo.com/video/32194308/",
+    "type":2,
+    "link":"http://tribune.com.pk/story/499216/two-months-on-police-finally-arrest-alleged-vehari-rapist/"
+  },
+  {
+    "id":10,
+    "title":"Patient's complaint: Public hospital sweeper arrested on harassment charges",
+    "description":"Hospital sweeper arrested and two ward boys named by complainant in Bahawalpur, who claimed that the suspects took her to another room “for treatment”, stripped her and tried to rape her. The complainant was taken to the hospital after she drank some chemical following a quarrel with her husband.",
+    "image":"13.jpg",
+    "type":1,
+    "link":"http://tribune.com.pk/story/500865/patients-complaint-public-hospital-sweeper-arrested-on-harassment-charges/"
+  }
+]
